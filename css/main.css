@@ -211,7 +211,7 @@ html {
   background-repeat: no-repeat;
   position: relative;
   color: white;
-  background: url(img/intro/1.jpg) repeat-x 0 100% fixed;
+  background: url(../img/intro/1.jpg) repeat-x 0 100% fixed;
   animation: city 30s linear infinite;
   -webkit-animation: city 30s linear infinite; }
 
@@ -297,7 +297,7 @@ html {
     .services__img a {
       position: absolute;
       display: block;
-      background-image: url(img/services/1.jpg);
+      background-image: url(../img/services/1.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: left -520px center;
@@ -362,7 +362,7 @@ html {
     .scope__img a {
       position: absolute;
       display: block;
-      background-image: url(img/scope/1.jpg);
+      background-image: url(../img/scope/1.jpg);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: left -452px top -40px;
